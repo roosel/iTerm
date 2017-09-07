@@ -170,12 +170,14 @@
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>857 1129 445 77 -309 800 1920 1058 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>760 416 400 129 0 0 1280 778 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>341 1299 620 392 -309 800 1920 1058 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>345 147 606 456 0 0 1280 778 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>-88 1232 796 473 -309 800 1920 1058 </string>
+	<string>234 1022 796 473 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>-309 834 1920 1024 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -982,6 +984,8 @@
 			<integer>150</integer>
 			<key>Command</key>
 			<string></string>
+			<key>Cursor Boost</key>
+			<real>0.0</real>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -1381,6 +1385,8 @@
 			<string></string>
 			<key>Silence Bell</key>
 			<false/>
+			<key>Smart Cursor Color</key>
+			<true/>
 			<key>Space</key>
 			<integer>0</integer>
 			<key>Sync Title</key>
@@ -1481,7 +1487,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-04-23T01:00:42Z</date>
+	<date>2017-09-07T04:21:20Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -1493,7 +1499,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.15</string>
+	<string>3.0.14</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
