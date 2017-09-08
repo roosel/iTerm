@@ -132,6 +132,10 @@
 	<string>~/Documents/Dev/iTerm</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{940, 485}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{712, 448}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -177,9 +181,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>345 147 606 456 0 0 1280 778 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>234 1022 796 473 -309 800 1920 1058 </string>
+	<string>231 1251 796 473 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-309 834 1920 1024 -309 800 1920 1058 </string>
+	<string>-281 1320 598 503 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>349 102 570 452 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -800,6 +804,18 @@
 		<dict>
 			<key>ASCII Anti Aliased</key>
 			<true/>
+			<key>AWDS Pane Directory</key>
+			<string></string>
+			<key>AWDS Pane Option</key>
+			<string>No</string>
+			<key>AWDS Tab Directory</key>
+			<string></string>
+			<key>AWDS Tab Option</key>
+			<string>No</string>
+			<key>AWDS Window Directory</key>
+			<string></string>
+			<key>AWDS Window Option</key>
+			<string>No</string>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -1045,6 +1061,8 @@
 			<real>1</real>
 			<key>Idle Code</key>
 			<integer>0</integer>
+			<key>Initial Text</key>
+			<string>archey</string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -1396,7 +1414,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.38528337647928995</real>
+			<real>0.14599204881656805</real>
 			<key>Unlimited Scrollback</key>
 			<false/>
 			<key>Use Bold Font</key>
@@ -1499,7 +1517,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.14</string>
+	<string>3.0.15</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
