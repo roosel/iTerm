@@ -181,9 +181,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>345 147 606 456 0 0 1280 778 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>231 1251 796 473 -309 800 1920 1058 </string>
+	<string>231 1173 918 512 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-281 1320 598 503 -309 800 1920 1058 </string>
+	<string>-309 834 1920 1024 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>349 102 570 452 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -434,6 +434,8 @@
 			<real>1</real>
 			<key>Idle Code</key>
 			<integer>0</integer>
+			<key>Initial Text</key>
+			<string></string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -1505,7 +1507,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-07T04:21:20Z</date>
+	<date>2017-09-10T04:21:45Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
