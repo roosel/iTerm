@@ -179,7 +179,7 @@
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>760 416 400 129 0 0 1280 778 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>341 1299 620 392 -309 800 1920 1058 </string>
+	<string>341 1300 620 392 -309 800 1920 1058 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>345 147 606 456 0 0 1280 778 </string>
 	<key>NSWindow Frame SharedPreferences</key>
@@ -1509,7 +1509,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-20T06:54:04Z</date>
+	<date>2017-09-25T06:54:06Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -1518,10 +1518,12 @@
 	<string></string>
 	<key>findIgnoreCase_iTerm</key>
 	<true/>
+	<key>findMode_iTerm</key>
+	<integer>0</integer>
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.0</string>
+	<string>3.1.1</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
