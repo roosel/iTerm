@@ -181,11 +181,11 @@
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>760 416 400 129 0 0 1280 778 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>341 1300 620 392 -309 800 1920 1058 </string>
+	<string>341 1299 620 392 -309 800 1920 1058 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>345 147 606 456 0 0 1280 778 </string>
+	<string>364 1080 606 469 -309 800 1920 1058 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>231 1173 796 473 -309 800 1920 1058 </string>
+	<string>227 1346 918 512 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>-309 834 1920 1024 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -1068,7 +1068,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>archey</string>
+			<string></string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -1443,6 +1443,8 @@
 			<string>/Users/russellyoder</string>
 		</dict>
 	</array>
+	<key>NoSyncConfirmBeta</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
@@ -1511,7 +1513,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-29T06:54:09Z</date>
+	<date>2018-08-03T09:38:35Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -1525,10 +1527,12 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.2</string>
+	<string>3.1.7</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
 	<false/>
+	<key>moveToApplicationsFolderAlertSuppress</key>
+	<true/>
 </dict>
 </plist>
