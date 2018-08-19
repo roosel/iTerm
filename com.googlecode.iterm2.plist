@@ -185,9 +185,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>364 1080 606 469 -309 800 1920 1058 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>227 1346 796 473 -309 800 1920 1058 </string>
+	<string>227 1346 796 486 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-302 834 1920 1024 -309 800 1920 1058 </string>
+	<string>-309 834 1920 1024 -309 800 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>349 102 570 452 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1451,6 +1451,8 @@
 	<string>03E5819C-9E04-4DDB-B13E-6B7562CDA6BF</string>
 	<key>NoSyncLastTipTime</key>
 	<real>511835302.10976601</real>
+	<key>NoSyncNeverAskAboutSettingAlternateMouseScroll</key>
+	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1467,6 +1469,8 @@
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<false/>
+	<key>PasteTabToStringTabStopSize</key>
+	<integer>4</integer>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1513,7 +1517,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-08-08T09:39:38Z</date>
+	<date>2018-08-18T09:39:26Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -1527,7 +1531,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.7</string>
+	<string>3.2.0</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
