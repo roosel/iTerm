@@ -1,3 +1,3 @@
-# Puddletown iTerm Theme
+# custom iTerm Theme
 
-![puddletown theme](http://i.imgur.com/QP6q5vw.png)
+![Imgur](https://i.imgur.com/0MevplU.png)
